@@ -1,3 +1,1 @@
-![](https://komarev.com/ghpvc/?username=philiprbrenan)
-
-<p><a href="https://prb.appaapps.com">Resume</a>
+![](https://komarev.com/ghpvc/?username=philiprbrenan) [Resume]https://prb.appaapps.com)
