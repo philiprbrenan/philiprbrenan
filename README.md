@@ -1,31 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=philiprbrenan)
 
-<!DOCTYPE html>
-<html version=3>
-
-<base href="https://raw.githubusercontent.com/philiprbrenan/philiprbrenan.github.io/main/">
-<body>
-
-<div class=container>
-<table>
-<tr><td colspan=2 align=center><h1 class=wideh1> <a href="https://prb.appaapps.com//">philip r brenan</a> </h1><a href="https://meet.google.com/isy-fgso-qmx">Video conference with me - always gratis, always free!</a>
-<tr><td><img id=infinity src="infinity.png">
-<td><table>
-<tr><td align=center><h1>Perl, PHP, Python, C, Java, JavaScript Developer</h1><h2>Mentat, Mentor and Maven</h2>
-<p>(with a 10 <a href="https://en.wikipedia.org/wiki/Gigabit_Ethernet">gigabit</a> per second  <a href="https://en.wikipedia.org/wiki/Optical_fiber">fiber optic</a> <a href="https://en.wikipedia.org/wiki/Internet">Internet</a> connection)
-<tr><td align=center><h2><a href="mailto:philiprbrenan@gmail.com">philiprbrenan@gmail.com</a></h2>
-<!--tr><td align=center><h3>3803 Mt Bonnell Rd, Austin, TX  78731</h3 -->
-</table>
-</table>
-</div>
-
-<table><tr>
-<td class=widetd><a href="https://metacpan.org/author/PRBRENAN"><h1 class=cpan>CPAN</h1></a>
-<td class=widetd><a href="https://github.com/philiprbrenan"><h1 class=gh>GitHub</h1></a>
-<td class=widetd><a href="https://github.com/philiprbrenan/AppaAppsGitHubPhotoApp/blob/main/AppaAppsGitHubPhotoApp.apk?raw=true"><h1 class=android>Android</h1></a>
-</table>
-
-<p>Created <a href="http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html">Database on a Chip</a> using <a href="https://en.wikipedia.org/wiki/Electronic_design_automation"><b>E</b>lectronic <b>D</b>esign <b>A</b>utomation</a> that I wrote in <a href="http://www.perl.org/">Perl</a>:
+<p>I need your help to create <a href="http://prb.appaapps.com/zesal/pitchdeck/pitchDeck.html">Database on a Chip</a> using <a href="https://en.wikipedia.org/wiki/Electronic_design_automation"><b>E</b>lectronic <b>D</b>esign <b>A</b>utomation</a> that I wrote in <a href="http://www.perl.org/">Perl</a>:
 <ol>
 <li><b><a href="https://github.com/philiprbrenan/NasmX86">as an assembler</a></b> to emulate the <a href="https://en.wikipedia.org/wiki/B-tree">B-Tree</a> algorithm in <a href="https://en.wikipedia.org/wiki/Assembly_language">assembly</a> <a href="https://en.wikipedia.org/wiki/Computer_program">code</a>
 <li><b><a href="https://github.com/philiprbrenan/SiliconChip">to design</a></b>, the corresponding <a href="https://en.wikipedia.org/wiki/Application-specific_integrated_circuit">application specific integrated circuit</a>
@@ -34,7 +9,7 @@
 <li>to successfully create a <b><a href="https://github.com/philiprbrenan/SiliconChipBtree"> 𝘀ilicon 𝘃ersion of the 𝗯tree 𝗮lgorithm</a></b>.
 </ol>
 
-<p>Solved two of the hardest problems on <a href="https://open.kattis.com/problems">Kattis</a> :
+<p>I solved two of the hardest problems on <a href="https://open.kattis.com/problems">Kattis</a> :
 <div class=kattisRow>
 
 <div class=kattisBlock>
@@ -52,11 +27,11 @@
 </div>
 </div>
 
-<p>Scored <b>175</b> on an LSATS logical reasoning <a href="https://en.wikipedia.org/wiki/Software_testing">test</a>:
+<p>I scored <b>175</b> on an LSATS logical reasoning <a href="https://en.wikipedia.org/wiki/Software_testing">test</a>:
 <p><img src="https://raw.githubusercontent.com/philiprbrenan/philiprbrenan.github.io/main/LSATs.png"> .
 
 <p>Designed the hardware for a <a href="http://prb.appaapps.com/laLoba/laLoba.html">fully
 automated warehouse system</a> for managing millions of books using <a href="http://www.perl.org/">Perl</a>, <a href="https://en.wikipedia.org/wiki/Scalable_Vector_Graphics">Scalar Vector Graphics</a>
 and <a href="https://metacpan.org/pod/Data::Edit::Xml">Data::Edit::Xml</a>.
 
-</html>
+<p><a href="https://prb.appaapps.com">Resume</a>
